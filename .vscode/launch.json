@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-NongSanSachApplication<store>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "poly.store.NongSanSachApplication",
+            "projectName": "store",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
